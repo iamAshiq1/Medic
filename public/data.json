@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "name" : "Root Canal Treatment",
+        "description" : "The specific features and complexity of the internal anatomy of the teeth have been thoroughly studied. Using a replica technique on thousands of teeth, Hess made clear as early as 1917 that the internal space of dental roots is often a complex system composed of a central area (root canals with round, oval or irregular cross-sectional shape) and lateral parts",
+
+        "img" : "https://img.freepik.com/free-photo/dentist-performing-teeth-treatment_23-2148396138.jpg?size=626&ext=jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Tumor Surgery",
+        "description" : "As one of several modalities in the management of cancer, the specialty of surgical oncology has evolved in steps similar to medical oncology (pharmacotherapy for cancer), which grew out of hematology, and radiation oncology, which grew out of radiology. The Ewing Society known today as the Society of Surgical Oncology was started by surgeons interested in promoting the field of oncology.",
+
+        "img" : "https://medicine.wustl.edu/wp-content/uploads/Lung-Cancer-Surgery-700x467.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Cancer Surgical Treatment",
+        "description" : "Cancer can be treated by surgery, chemotherapy, radiation therapy, hormonal therapy, targeted therapy and synthetic lethality, most commonly as a series of separate treatments. The choice of therapy depends upon the location and grade of the tumor and the stage of the disease, as well as the general state of the patient (performance status). Cancer genome sequencing helps in determining",
+        "img" : "https://www.cwilson.com/app/uploads/2020/03/shutterstock_589302497_WEB-1024x683.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Liver Surgery",
+        "description" : "The liver is an accessory digestive organ that produces bile .Liver transplantation or hepatic transplantation is the replacement of a diseased liver with the healthy liver from another person (allograft). Liver transplantation is a treatment option for end-stage liver disease and acute liver failure, although availability of donor organs is a major limitation. The most common technique is orthotopic transplantation.",
+        "img" : "https://drharikumar.com/wp-content/uploads/2019/08/liver.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Eye Transplant",
+        "description" : "Corneal transplantation, also known as corneal grafting, is a surgical procedure where a damaged or diseased cornea is replaced by donated corneal tissue (the graft). When the entire cornea is replaced it is known as penetrating keratoplasty and when only part of the cornea is replaced it is known as lamellar keratoplasty.The cornea is the transparent front part of the eye that covers the iris, pupil and anterior chamber. ",
+
+        "img" : "https://domf5oio6qrcr.cloudfront.net/medialibrary/6611/fe37b1ab-89ee-4fd8-8a11-5c5285ef1385.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Bone fracture fixing",
+        "description" : "A bone is a rigid tissue that constitutes part of the skeleton in most vertebrate animals. Bones protect the various organs of the body, produce red and white blood cells, store minerals, provide structure and support for the body, and enable mobility. Bones come in a variety of shapes and sizes and have a complex internal and external structure. They are lightweight yet strong and hard, and serve multiple functions. ",
+        
+        "img" : "https://avicenna-alliance.com/files/pics/csm_fracture_a007b7d57d.jpg"
+    }
+]

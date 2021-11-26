@@ -1,0 +1,18 @@
+@media only screen and (min-width: 360px) {
+    .youtube{
+        width: 325px;
+        height: 220px;
+    }
+}
+@media only screen and (min-width: 400px) {
+    .youtube{
+        width: 360px;
+        height: 230px;
+    }
+}
+@media only screen and (min-width: 700px) {
+    .youtube{
+        width: 490px;
+        height: 320px;
+    }
+}
